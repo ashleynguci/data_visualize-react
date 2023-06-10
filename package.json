@@ -7,7 +7,7 @@
   "dependencies": {
     "d3": "^5.11.0",
     "d3blackbox": "^1.2.0",
-    "gatsby": "^2.13.73",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^2.2.10",
     "gatsby-plugin-manifest": "^2.2.6",
     "gatsby-plugin-offline": "^2.2.7",
